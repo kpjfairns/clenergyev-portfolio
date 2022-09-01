@@ -1,0 +1,19 @@
+{
+    "author": "Kyle Fairns",
+    "email": "kyle.fairns@gmail.com",
+    "name": "clenergyev-portfolio",
+    "project": "Cypress",
+    "scripts": {
+        "test": "cypress run"
+    },
+    "version": "0.0.1",
+    "description": "A few test involving Cypress for web automation",
+    "dependencies": {
+        "chai": "4.3.6",
+        "chromedriver": "103.0.0",
+        "cypress": "10.3.1",
+        "mocha": "10.0.0",
+        "ts-lint": "4.5.1",
+        "typescript": "4.7.4"
+    }
+}
