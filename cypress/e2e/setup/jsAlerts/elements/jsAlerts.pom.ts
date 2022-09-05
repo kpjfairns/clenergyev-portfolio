@@ -27,6 +27,7 @@ export class JSAlerts {
 
             default:
                 throw new JSAlertErrors().typeError
+                break
 
         }
     }
@@ -45,6 +46,7 @@ export class JSAlerts {
 
             default:
                 throw new JSAlertErrors().typeError
+                break
         }
     }
 
